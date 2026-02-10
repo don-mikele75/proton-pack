@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "3d"
+		},{
+			"path": "doc"
+		},{
+			"path": "img"
+		},{
+			"path": "pico"
+		},{
+			"path": "sounds"
+		}
+	],
+	"settings": {}
+}
